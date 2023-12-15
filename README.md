@@ -1,0 +1,1 @@
+Final project submission for MSML651. In this, I analyzed a variety of NASA HiRISE Mars Landmarks utilizing AlexNet. Included in this repo are the PDF report, the code, and the powerpoint presentation given on 12/11/2023.
